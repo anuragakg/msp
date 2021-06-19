@@ -1,0 +1,24 @@
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/storage/logs
+/vendor
+composer.lock
+public/apidoc
+.env
+.env.backup
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+doc/
+.idea/
+
+# Symbolic links for storage folders
+public/Evaluation-inspection
+public/fund-utilization
+public/PMDVY-Higlights
+public/Projected-Financials
+public/MO
